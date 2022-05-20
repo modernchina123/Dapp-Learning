@@ -14,7 +14,12 @@
 - [《乌合之众》](https://book.douban.com/subject/6966569/)
 - [《娱乐至死》](https://book.douban.com/subject/1062193/)
 - [《聪明的投资者》](https://book.douban.com/subject/5243775/)
-
+- [《比特币标准：中央银行的去中心化替代方案》](https://zh.usa1lib.org/book/4984641/62fc89)
+- [《数字黄金：比特币鲜为人知的故事》](https://zh.usa1lib.org/book/3651197/d410ff)
+- [《码书：编码与解码的战争》](https://book.douban.com/subject/27176880/)
+- [《黑客：计算机革命的英雄》](https://book.douban.com/subject/6860890/)
+- [《编制万维网》](https://book.douban.com/subject/1031060/)
+- [《计算机：一部历史》](https://book.douban.com/subject/26352544/)
 
 ## 文章推荐
 - [Nick Szabo：货币，区块链与社会可扩展性](https://www.btcstudy.org/2021/10/27/money-blockchains-and-social-scalability-echo-edition/) 
